@@ -1,16 +1,31 @@
-# Happy Birthday GUI
+🎉 Happy Birthday Web Page 🎂
 
-A colorful and fun Happy Birthday greeting built with HTML and CSS.
+A fun and colorful web page that displays a Happy Birthday greeting using HTML and CSS. Perfect for beginners learning web development and creating personalized greetings.
+
+Features
+
+🎨 Colorful text and backgrounds
+
+✨ Simple CSS animations (bouncing text, floating balloons)
+
+📐 Centered and responsive layout
+
+🎈 Decorative elements like balloons, confetti, and cake
+
+How to Use
+
+Clone or download the repository:
+
+git clone <your-repo-link>
 
 
-## Features
-- Animated birthday greeting
-- Responsive design
-- Easy to customize
+Open index.html in your web browser.
 
-Technologies Used 
-HTML 
-CSS 
+Enjoy and share the birthday greeting!
 
-Author
-Sarika Yadav 
+Technologies Used
+
+HTML – Structure of the page
+
+CSS – Styling and animations
+
